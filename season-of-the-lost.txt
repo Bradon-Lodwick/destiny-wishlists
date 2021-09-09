@@ -9,3 +9,84 @@ dimwishlist:item=2481881293&perks=1687452232,2779035018,1546637391
 // Ignition Code
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391 # spike vorpal slide
 dimwishlist:item=304659313&perks=3032599245,3161816588,960810156 # slide blinding danger zone
+
+// Comedian
+dimwishlist:item=2443900757&perks=791862061,2621346526,1546637391 # Adept
+dimwishlist:item=1028582252&perks=791862061,2621346526,1546637391 # Normal
+
+// Canis Major
+dimwishlist:item=2066434718&perks=3301904089,2621346526,1546637391
+dimwishlist:item=2066434718&perks=3301904089,2869569095,1546637391
+dimwishlist:item=2066434718&perks=3301904089,2284787283,1546637391
+dimwishlist:item=2066434718&perks=3301904089,951095735,1546637391
+
+// Reed's Regret
+// Only includes rolls with triple tap and firing line. Other combos are desirable though
+dimwishlist:item=1399243961&perks=3400784728,1771339417 # Normy
+dimwishlist:item=2475355656&perks=3400784728,1771339417 # Adept
+
+// The Hothead (Adept)
+dimwishlist:item=1866778462&perks=3796465595,3977735242,1546637391
+dimwishlist:item=1866778462&perks=3796465595,3977735242,3194351027
+dimwishlist:item=1866778462&perks=3796465595,2869569095,1546637391
+dimwishlist:item=1866778462&perks=3796465595,2869569095,3194351027
+dimwishlist:item=1866778462&perks=3796465595,3523296417,1546637391
+dimwishlist:item=1866778462&perks=3796465595,3523296417,3194351027
+
+// The Hothead
+dimwishlist:item=4255171531&perks=3796465595,3977735242,1546637391
+dimwishlist:item=4255171531&perks=3796465595,3977735242,3194351027
+dimwishlist:item=4255171531&perks=3796465595,2869569095,1546637391
+dimwishlist:item=4255171531&perks=3796465595,2869569095,3194351027
+dimwishlist:item=4255171531&perks=3796465595,3523296417,1546637391
+dimwishlist:item=4255171531&perks=3796465595,3523296417,3194351027
+
+// Scathelocke
+dimwishlist:item=602618796&perks=1820235745,3425386926
+
+// The Last Breathe
+dimwishlist:item=507038823&perks=1820235745,4104185692
+dimwishlist:item=507038823&perks=1820235745,4049631843
+dimwishlist:item=507038823&perks=3523296417,1774574192 # notes:for grenade builds now that more and more things require energy matching
+
+// Judgement
+dimwishlist:item=1476654960&perks=3523296417,1774574192 # notes:for grenade builds now that more and more things require energy matching
+
+// Vulpecula
+dimwishlist:item=1622998472&perks=1168162263,124408337 # notes:look for high range
+
+// Fractethyst
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717 # notes:pvp
+
+// Chrysura Melo
+dimwishlist:item=1337707096&perks=4104185692
+
+// Sorrow's Verse
+// Lots of good rolls for this, but this one inparticular is the god roll imo
+dimwishlist:item=2496875173&perks=1820235745,4104185692
+
+// Wolftone Draw
+dimwishlist:item=3472875143&perks=201365942,4104185692
+
+// Contingency Plan
+dimwishlist:item=577528837&perks=1820235745,4104185692
+dimwishlist:item=577528837&perks=1820235745,4049631843
+dimwishlist:item=577528837&perks=1168162263,1015611457
+
+// Servant Leader
+// SO MANY ROLLS I am too lazy to write them all, these are the standouts
+// Subsistence
+dimwishlist:item=1107446438&perks=1820235745,4049631843
+dimwishlist:item=1107446438&perks=1820235745,4104185692
+dimwishlist:item=1107446438&perks=1820235745,3425386926
+// Rapid Hit
+dimwishlist:item=1107446438&perks=247725512,1015611457
+dimwishlist:item=1107446438&perks=247725512,2458213969
+// Outlaw
+dimwishlist:item=1107446438&perks=1168162263,2458213969
+dimwishlist:item=1107446438&perks=1168162263,1015611457
+// PvP
+dimwishlist:item=1107446438&perks=2450788523,1015611457
+dimwishlist:item=1107446438&perks=2450788523,3425386926
+
+
