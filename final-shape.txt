@@ -1,1 +1,77 @@
 title: Enraged Cucco's Final Shape Wishlist
+
+// Uzume RR4
+dimwishlist:item=3610521673&perks=3978468247,4293542123 # notes: discord and incandescant is a fun double special idea
+
+// Critical Anomaly
+dimwishlist:item=172461430&perks=2978966579,3640170453,1878756191 # notes: chill clip sniper rifle
+
+// Forthcoming Deviance
+dimwishlist:item=3123651616&perks=1906147653,2241043034 # notes: close to melee fun I guess?
+
+// Riiswalker
+dimwishlist:item=557165046&perks=791862061,1942880504,3418165135,3989629871 # notes: tractor double pellets
+
+// Undercurrent
+dimwishlist:item=817909300&perks=3523296417,2173046394 # notes: voltshot could be good with chain reaction nerf? Prob not usable though over forbearance
+
+// Nullify
+dimwishlist:item=892183998&perks=3017780555,4293542123,1878756191 # notes: Maybe nice for heal clip on heavy burst
+
+// Non-Denouement
+dimwishlist:item=1039915310&perks=3523746922,1720528630,1878756191 # notes: voltshot go burr
+
+// Shadow Price
+dimwishlist:item=1056103557&perks=1583705720,2173046394 # notes: prob one of the better voltshot autos
+
+// Maahes HC4
+dimwishlist:item=1246793994&perks=776531651,2048641572 # notes: repulsor + destabalizing is fun after the buff
+dimwishlist:item=1246793994&perks=247725512,4104185692 # notes: maybe decent for lucky pants
+
+// Imminence
+dimwishlist:item=3951511045&perks=3523296417,3640170453 # notes: demo
+dimwishlist:item=3951511045&perks=3828510309,3640170453 # notes: enlightened action
+
+// Perfect Paradox
+dimwishlist:item=1298672084&perks=1300023272,679225683,494941759,788178929,2838996248 # notes: prob best 1-2 punch in kinetic slot unless you need lead from gold
+
+// Scintillation
+dimwishlist:item=1492522228&perks=1483536627,3418782618,3708227201 # notes: surrounded
+dimwishlist:item=1492522228&perks=1483536627,3418782618,3078487919 # notes: bait and switch
+
+// Claws of the Wolf
+dimwishlist:item=1505862304&perks=776531651,2048641572 # notes: fun destabalizing pulse, maybe better than elsie's?
+
+// Incisor
+dimwishlist:item=1711056134&perks=923806249,557221067 # notes: literally just a trace with slice, kinda ass but gives slice as an option
+
+// Summum Bonum
+dimwishlist:item=2001697739&perks=1749209109,3640170453 # notes: might actually be best sword for herald of finality
+
+// Pre Astyanax IV
+dimwishlist:item=2063217087&perks=852209214,16392701,3523746922,2662236651,1050127423 # notes: shoots so effing fast lol
+
+// Patron of Lost Causes
+dimwishlist:item=2249996761&perks=247725512,3038247973 # notes: hard to say if this is better than night watch, might be minor perk and feel dependant
+
+// Breachlight
+dimwishlist:item=2328923181&perks=3523296417,11612903 # notes: other good combos on this as well, might be nice to get a double perk one with good options
+
+// Line in the Sand
+dimwishlist:item=2450049485&perks=1483536627,2284787283,3078487919 # notes: maybe this thing can be good finally lol
+
+// Martyr's Retribution
+dimwishlist:item=2584830733&perks=1478423395,2822142346,3300816228,4293542123,2838996248 # notes: incan might feel good on it?
+
+// The Riposte
+dimwishlist:item=3754408118&perks=1840239774,3230963543,776531651,2048641572,1067908860 # notes: just looks fun with the destabalizing changes
+
+// Yarovit MG4
+dimwishlist:item=3959549446&perks=3828510309,2109543898 # notes: good stasis sub?
+
+// Hush
+dimwishlist:item=3962575203&perks=201365942,3414324643 # notes: I'll never get this cause I'm not doing gambit XD
+
+// Better Devils
+dimwishlist:item=4152016199&perks=3523296417,4104185692 # notes: frenzy is good with left demo, should be a pretty good option in kinetic slot for hc. Lots of pvp rolls but I'm not listing them in my wl
+
