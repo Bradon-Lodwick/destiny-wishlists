@@ -1,0 +1,82 @@
+title: Enraged Cucco's Revenant Wishlist
+// Seasonal
+dimwishlist:item=414045521&perks=3523296417,2048641572 # notes: better than my old void sidearm that I've been holding onto
+// Noxious Vetiver
+dimwishlist:item=825495813&perks=243981275,3966416502 # notes: reminds me of the roll people use on multimach for pve, can also get frenzy instead but jolting feedback I think is much stronger imo since damage can be split among targets
+// Sojourner's Tale
+dimwishlist:item=2130875369&perks=3978468247,4293542123 # notes: Fun add clear shotgun, might actually be pretty solid
+// Chroma Rush
+dimwishlist:item=2598420927&perks=1820235745,3891536761 # notes: kinetic tremors on auto rifle could be fun?
+dimwishlist:item=2598420927&perks=1820235745,4104185692 # notes: prob best overall auto in the kinetic slot now unless you want to farm out breaknecks lol
+// Liturgy
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579 # notes: it's basically the same thing as the old ignition code roll but better
+dimwishlist:item=2599338624&perks=3301904089,3987942396,2978966579 # notes: maybe useful now that alh is worse in rotations that require fast weapon switching
+// Bitter/Sweet
+dimwishlist:item=2599338625&perks=3987942396,3078487919 # notes: has a built in overflow perk, and built in field prep. If it weren't for Chill Inhibitor this would be the best gl. Def best arc gl
+// Ignition Code
+dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692 # notes: largely outdone by Liturgy now, but having frenzy for faster reloads could prove useful. The origin trait is also very good. TBH though, militia's birthright is just flat out better
+// Exuviae
+dimwishlist:item=2823644677&perks=1955165503,124408337 # notes: the rimestealer perk synergy is nice, and the origin trait gets around a reload perk anyways
+// Red Tape
+dimwishlist:item=3423493037&perks=1955165503,124408337 # notes: Rimestealer is just unique tbh other things are probably better
+// Sovereighnty
+dimwishlist:item=3818198556&perks=3523296417,1134488199 # notes: Withering Gaze applicator with demo as a mid dps reload if needed
+// Vantage Point
+dimwishlist:item=3830941962&perks=1583705720,3966416502 # notes: jolting feedback with a reload perk
+
+
+// Vesper's Host
+// VS Gravitic Arrest
+dimwishlist:item=93061497&perks=3523296417,1134488199 # notes: debuff application
+dimwishlist:item=93061497&perks=3523296417,2396489472 # notes: fun roll with a unique perk for add clear
+// VS Chill Inhibitor
+dimwishlist:item=1762785662&perks=3987942396,3078487919 # notes: best all around damage gl in the game now, hopefully with spike nades. No mag increase perk needed on it since backup gets you to 6, but if you do get a mag increase instead can use different mods
+dimwishlist:item=1762785662&perks=3987942396,3708227201 # notes: situational damage perk but theoretically higher damage in correct environment
+dimwishlist:item=1762785662&perks=3751912585,3078487919 # notes: fast dump with reload cheat exotics like rain of fire
+// VS Velocity Baton
+dimwishlist:item=1762785663&perks=3523296417,243981275 # notes: insane orb generation
+dimwishlist:item=1762785663&perks=3523296417,2048641572 # notes: maybe keep for add clear? idk if they don't nerf orb gen I think that is just better
+// VS Pyroelectric Propellant
+dimwishlist:item=4232480042&perks=684456054,3966416502 # notes: I think there are better jolting feedback options but at least this is one to hold onto
+
+// Garden of Salvation
+// Omniscient Eye
+dimwishlist:item=147444292&perks=1354429876,555281244 # notes: currently best energy damage sniper
+// Ancient Gospel
+dimwishlist:item=963574173&perks=2048641572,3038247973,511914882 # notes: no other real 140 void hcs that are decent, this gets damage perks with destabilizing
+// Zealot's Reward
+dimwishlist:item=2720651699&perks=3300816228,2594592626 # notes: best fusion rifle in the energy slot for damage, great tractor pairing as well
+dimwishlist:item=2720651699&perks=3300816228,1427256713 # notes: fun add clear, and if you are doing singular shots as part of a rotation this is actually a really solid damage buff if you delay enough for alh to proc
+// Accrued Redemption
+dimwishlist:item=3621336854&perks=201365942,3891536761 # notes: kinetic tremors apparently procs in 2 hits, this is very strong for things like gms which is basically where you would be using bows anyways
+
+// Trials
+// Tomorrow's Answer
+dimwishlist:item=303107619&perks=3987942396,3078487919 # notes: if you get a double perk in last column with bipod, you are going to have sooooo much ammo and the ability to actually quickly shoot it all
+dimwishlist:item=3009199534&perks=3987942396,3078487919 # notes: fuck getting adepts amiright?
+// Yesterday's Question
+dimwishlist:item=2300143112&perks=247725512,1546637391 # notes: tbh even if I get just vorpal I'll be happy lol, but the rapid hit reload is definitely nice. Fourth times with high reload is also alright
+dimwishlist:item=2378785953&perks=247725512,1546637391 # notes: tbh even if I get just vorpal I'll be happy lol, but the rapid hit reload is definitely nice. Fourth times with high reload is also alright
+
+// Iron Banner
+// Tinasha's Mastery
+dimwishlist:item=480368036&perks=1421772400,2978966579 # notes: try for large blast radius but also take into account total reserves you get based on mag size, it's weird for rocket sidearms
+// Archon's Thunder
+dimwishlist:item=2896109856&perks=1955165503,124408337 # notes: I think on a machine gun rimestealer might actually be better to keep stacks, so this might be a good pickup
+
+// Ritual/GM
+// Wicked Sister
+dimwishlist:item=2039776723&perks=3987942396,3078487919 # notes: best strand gl
+// Bygones
+dimwishlist:item=2199554524&perks=243981275,3891536761 # notes: Attrition orb access if needed, otherwise use blast furnace
+// Rake Angle
+dimwishlist:item=2298039571&perks=951095735,2978966579 # notes: chill clip is a pretty unique thing to have on a glaive, makes it viable in high difficulty as a utility weapon that you then shield with
+dimwishlist:item=3997086838&perks=951095735,2978966579 # notes: chill clip is a pretty unique thing to have on a glaive, makes it viable in high difficulty as a utility weapon that you then shield with
+
+// World Drops
+// Legato-11
+dimwishlist:item=3753063346&perks=791862061,3300816228,4104185692 # notes: replacement for sojourner's tale. Also gets vorpal for swap loadouts, which is potentially better/more consistent
+dimwishlist:item=3753063346&perks=791862061,3300816228,1546637391 # notes: replacement for sojourner's tale, especially good for if you have to swap loadouts
+// Veleda-F
+dimwishlist:item=4200122994&perks=1821614984,1134488199 # notes: probably the best withering gaze applicator, high damage model sniper for the swap and good swap perk
+
